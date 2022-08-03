@@ -1,6 +1,12 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+title: <p align="center"> Smita Behera </p>
+logo: /assets/img/Avatar.PNG
+
+description:
+  <p align="center">
+  <a href="https://github.com/smitabehera">Resume</a> |
+  <a href="https://github.com/smitabehera">LinkedIn</a> |
+  <a href="https://github.com/smitabehera">GitHub</a>
+
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
